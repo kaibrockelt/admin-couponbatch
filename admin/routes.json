@@ -1,0 +1,6 @@
+{
+    "admin.app.couponbatch": {
+      "component": "createBatchCoupons",
+      "path": "/admin/app/coupons/createbatch"
+    }
+  }

@@ -1,0 +1,6 @@
+{
+    "section": "products",
+    "titleId": "admin-couponbatch.navigation.label",
+    "path": "/admin/app/coupons/createbatch",
+    "searchKeyWordsHelpers": "admin-example.navigation.search.kws"
+  }

@@ -1,4 +1,7 @@
 {
   "admin/test": "test",
-  "store/test": "test"
+  "store/test": "test",
+  "admin-couponbatch.navigation.label": "Batch Coupon Creation",
+  "admin-couponbatch.navigation.search.kws": "Coupon, Coupons, batch, mass, creation",
+  "admin-couponbatch.launchbutton": "Run mass creation"
 }
